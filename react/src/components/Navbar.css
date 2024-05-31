@@ -1,0 +1,23 @@
+.nav-btn {
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 0.5rem;
+  border: 1px solid #ccc;
+  margin: 0 0.5rem;
+  color: #fff;
+  background-color: #000;
+}
+
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+  text-wrap: nowrap;
+  padding-inline: 0;
+  padding-top: 2rem;
+}
+
+.navbar li {
+  list-style: none;
+}
